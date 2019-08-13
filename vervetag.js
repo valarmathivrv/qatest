@@ -32,7 +32,7 @@
     }
 
     // iterate params for special cases & reformat for AdCel request
-    var baseURL = protocol + '//adcel.vrvm.com/adtag.js';
+    var baseURL = 'https://raw.githack.com/valarmathivrv/qatest/master/adtag.js';
     var keyMap = {
         'latitude'  : 'lat',
         'longitude' : 'long'
