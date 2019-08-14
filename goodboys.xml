@@ -1,0 +1,20 @@
+<VAST version="2.0">
+<Ad id="USeek_VPAID">
+<InLine>
+<AdSystem>VPAID</AdSystem>
+<AdTitle>USeek</AdTitle>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:38</Duration>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true" bitrate="2000">
+https://videos.useek.com/uploads/2019_GoodBoys_30_AV_V2.mp4
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
