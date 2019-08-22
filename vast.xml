@@ -1,0 +1,67 @@
+<VAST version="3.0">
+<Ad id="8f50d816-ee1d-4e74-918a-6ae344e6c387">
+<InLine>
+<Error>
+<![CDATA[
+https://adexp.liftoff.io/vast_errors?at=&exchange=26&ad-group-id=92823&creative-id=21430&auction-id=1892949b3b248b26d484a97767523ca30ce381d7&device-id=9463402a-83bb-4f1e-ab83-975a11584f6f&device-id-sha1=8c72fc11b43354f69cc65af003c2bfa0e219c75d&device-id-type=2&device-family=4&device-model=+Unknown&os-version=9&source-app-store-id=com.cardgame.solitaire.fishdom&targeted-city-id=&targeted-country-id=184&bid-ts=1566251040741&source-app-name=Solitaire&test-groups=752&creative-tests=780&creative-tests=657&creative-tests=958&creative-tests=936&doubleclick-source-app-category-ids=&do-not-track=false&prevent-redirect=&using-fnf=&vast_error_code=[ERRORCODE]&asset_url=[ASSETURI]
+]]>
+</Error>
+<AdTitle>21430</AdTitle>
+<Creatives>
+<Creative>
+<Linear>
+<Duration>00:00:25</Duration>
+<MediaFiles>
+<MediaFile width="270" height="480" type="video/mp4" bitrate="418" delivery="progressive" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://cdn.liftoff.io/customers/462/videos/1fffd75e50.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+<VideoClicks>
+<ClickThrough>http://verve.com</ClickThrough>
+</VideoClicks>
+</Linear>
+</Creative>
+<Creative>
+<CompanionAds>
+<Companion assetWidth="320" assetHeight="480" width="320" height="480">
+<StaticResource creativeType="image/jpeg">
+<![CDATA[
+https://cdn.liftoff.io/customers/462/images/272c9e982b.jpg
+]]>
+</StaticResource>
+<CompanionClickThrough>
+<![CDATA[
+https://click.liftoff.io/v1/campaign_click/UQ87VOEyDAs7_A4E9wOL5DIH7OBnrjV1AObi70aP8R9wwqkKYEuEy7rWmaBfxhxL9OYWYqd2-2LzuTsb4yPc7ovNFRPVhvRmXGyPg9f9CUel3bnAaUuBo-0mXnunfwkv_wcnEveowQcwT8fAAZhzZgRL_N5OtoiJNJ7tb6GFuFrs5oD3UysgxlsDvHLM9oOu5BBUWOiYuJS-ys2terNioxjZaHxsBs-KPJssECidQKQsSAiWLVD9doodRb_Ggz-9slFeOhP8zYw9XsHtBmzpiKvljUxm3LOMYLU4p659_AvALS7Uye7yIrDKVZneQ5oFVKThT5Ic_MVb1AsaILF7
+]]>
+</CompanionClickThrough>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+<AdSystem version="1">Verve Ad</AdSystem>
+<Error>http://example.com/error</Error>
+<Impression id="Impression-ID">http://example.com/track/impression</Impression>
+<Extensions>
+<Extension name="com.rubiconproject.data" type="Value">
+<AdServingData>
+<ImpressionId>
+<![CDATA[ d85b42a1-ec48-4e71-8c22-2a0172ab3a19 ]]>
+</ImpressionId>
+<ClearingPrice currency="USD">5.951007</ClearingPrice>
+<Advertiser>
+<Id>1641116</Id>
+</Advertiser>
+<DealToken>
+<![CDATA[ LIF-15278-005c5 ]]>
+</DealToken>
+<CreativeId>
+<![CDATA[ 21430 ]]>
+</CreativeId>
+</AdServingData>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
